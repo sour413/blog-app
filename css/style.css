@@ -1,0 +1,220 @@
+body {
+    background: #f8d25a !important;
+}
+
+.blog-card {
+    margin: auto !important;
+    width: 20%;
+    top: 2rem;
+    border-radius: 5% !important;
+}
+
+.subtitle-text {
+    font-size: 65%;
+    color: #353635;
+    line-height: 3.6;
+}
+
+.status {
+  font-size: 1rem !important;
+}
+
+.main-title {
+    font-size: 100%;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.blog-text {
+    font-size: 70%;
+}
+
+.prof-img {
+    width: 15%;
+}
+
+.tutor-name {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50%;
+}
+
+@media (max-width: 575.98px) {
+    .blog-card {
+        margin: auto !important;
+        width: 100%;
+        height: auto;
+        border-radius: 5% !important;
+    }
+
+    .status {
+        font-size: 1rem !important;
+    }
+
+    .subtitle-text {
+        font-size: 1rem;
+    }
+
+    .main-title {
+        font-size: 100%;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    .blog-text {
+        font-size: 1rem;
+        font-weight: 300;
+    }
+
+    .tutor-name {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .blog-card {
+        margin: auto !important;
+        width: 90%;
+        height: auto;
+        border-radius: 5% !important;
+    }
+
+    .main-title {
+        font-size: 3rem;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    .status {
+        font-size: 1rem !important;
+    }
+
+    .subtitle-text {
+        font-size: 1rem;
+    }
+
+    .blog-text {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+
+    .tutor-name {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    .prof-img {
+        width:6rem;
+    }
+}
+
+/* `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {  
+    .blog-card {
+        margin: auto !important;
+        width: 80%;
+        top: 2rem;
+        border-radius: 5% !important;
+    }
+
+    .subtitle-text {
+        font-size: 65%;
+        line-height: 3;
+        color: #353635;
+    }
+
+    .main-title {
+        font-size: 100%;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    .blog-text {
+        font-size: 70%;
+    }
+
+    .prof-img {
+        width: 15%;
+    }
+
+    .tutor-name {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 50%;
+    }
+}
+
+/* `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {  
+    .blog-card {
+    margin: auto !important;
+    width: 90%;
+    top: 2rem;
+    border-radius: 5% !important;
+    }
+
+    .subtitle-text {
+        font-size: 65%;
+        line-height: 3;
+        color: #353635;
+    }
+
+    .main-title {
+        font-size: 100%;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    .blog-text {
+        font-size: 70%;
+    }
+
+    .prof-img {
+        width: 15%;
+    }
+
+    .tutor-name {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 50%;
+    }
+}
+
+/* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) { 
+    .blog-card {
+        margin: auto !important;
+        width: 30%;
+        top: 2rem;
+        border-radius: 5% !important;
+    }
+
+    .subtitle-text {
+        font-size: 65%;
+        line-height: 3;
+        color: #353635;
+    }
+
+    .main-title {
+        font-size: 100%;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    .blog-text {
+        font-size: 70%;
+    }
+
+    .prof-img {
+        width: 15%;
+    }
+
+    .tutor-name {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        font-size: 50%;
+    }
+}
