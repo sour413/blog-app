@@ -7,6 +7,7 @@ body {
     width: 20%;
     top: 2rem;
     border-radius: 5% !important;
+    box-shadow: 10px 10px;
 }
 
 .subtitle-text {
